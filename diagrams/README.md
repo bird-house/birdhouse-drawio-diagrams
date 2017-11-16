@@ -1,21 +1,14 @@
-Diagrams created with draw.io
-=============================
+# List of Diagrams
 
-* https://www.draw.io
-
-
-Bird Structure
---------------
+## Bird Structure
 
 Working on new birdhouse bird structure.
 
-https://github.com/bird-house/birdhouse-docs/blob/master/diagrams/draw.io/Birdhouse_bird_structure.png
+[Bird Structure](https://www.draw.io/#Hbird-house%2Fbirdhouse-drawio-diagrams%2Fmaster%2Fdiagrams%2FBirdhouse_bird_structure.xml)
 
+## PyWPS Scheduler Extension
 
-PyWPS Scheduler Extension
--------------------------
-
-[Interaction Diagram](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=pywps-scheduler-extension_interactions.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fbird-house%2Fbirdhouse-docs%2Fmaster%2Fdiagrams%2Fdraw.io%2Fpywps-scheduler-extension_interactions.xml)
+[Interaction Diagram](https://www.draw.io/#Hbird-house%2Fbirdhouse-drawio-diagrams%2Fmaster%2Fdiagrams%2Fpywps-scheduler-extension_interactions.xml)
 
 See also:
 
