@@ -1,5 +1,10 @@
 # List of Diagrams
 
+
+## CP4CDS Compute
+
+[CP4CDS Compute Simple](https://www.draw.io/#Hbird-house%2Fbirdhouse-drawio-diagrams%2Fmaster%2Fdiagrams%2Fcp4cds-compute-simple.xml)
+
 ## Bird Structure
 
 Working on new birdhouse bird structure.
@@ -13,4 +18,3 @@ Working on new birdhouse bird structure.
 See also:
 
 * http://geoprocessing.info/wpsdoc/1x0Execute
-* https://github.com/bird-house/pywps/tree/dev-scheduler/pywps/processing
